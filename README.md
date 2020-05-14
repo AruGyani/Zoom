@@ -1,6 +1,6 @@
 # Zoom Bot 
 
-Hi! This bot was designed for the UTD Class of 2024 Discord Server. Its main purposes are for greeting new users and administrative commands, however it has scalable functionality for many different uses.
+Hi! This bot was designed for the UTD Class of 2024 Discord Server. Its main purposes are for greeting new users and administrative commands, however it has scalable functionality for many different uses. There will be added functionality for different commands in the future, however this still functions as a good framework. For detailed instructions on each file, Discord.JS docs offer helpful guides for setups and frameworks.
 
 # Code Setup
 In order to run this bot, you must have both `node.js` installed.
